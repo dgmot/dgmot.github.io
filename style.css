@@ -10,6 +10,14 @@ body {
 	transition: background-color 2s cubic-bezier(0.19, 1, 0.22, 1);
 }
 
+.title {
+	color: white;
+	letter-spacing: 0.4125rem;
+	position: absolute;
+	top:10%;
+	text-transform: uppercase;
+}
+
 .button {
 	border: 2px solid #2e2e2e;
 	cursor: pointer;
